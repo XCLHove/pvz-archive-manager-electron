@@ -12,3 +12,25 @@
 - [ ] Android 版本。
 - [ ] 备份到云端。
 - [ ] 同步 Windows 与 Android 的游戏进度。
+
+## 代码仓库
+
+### gitee
+
+[代码仓库](https://gitee.com/xclhove/pvz-archive-manager-electron)
+
+[下载地址（国内）](https://gitee.com/xclhove/pvz-archive-manager-electron/releases)
+
+### github
+
+[代码仓库](https://github.com/XCLHove/pvz-archive-manager-electron)
+
+[下载地址](https://github.com/XCLHove/pvz-archive-manager-electron/releases)
+
+## 功能展示
+
+![1.png](./docs/images/1.png)
+
+![2.png](./docs/images/2.png)
+
+![3.png](./docs/images/3.png)
